@@ -6,6 +6,7 @@ C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
+/*Program to reverse an Array*/
 #include <stdio.h>
 #include <stdlib.h>
 #define n 6
